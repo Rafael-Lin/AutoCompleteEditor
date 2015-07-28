@@ -1,0 +1,10 @@
+D:\Infragistics\practice\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe.config
+D:\Infragistics\practice\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csprojResolveAssemblyReference.cache
+D:\Infragistics\practice\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Properties.Resources.resources
+D:\Infragistics\practice\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csproj.GenerateResource.Cache
+D:\Infragistics\practice\AutoComplete\AutoComplete\obj\Debug\AutoComplete.exe.licenses
+D:\Infragistics\practice\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe
+D:\Infragistics\practice\AutoComplete\AutoComplete\bin\Debug\AutoComplete.pdb
+D:\Infragistics\practice\AutoComplete\AutoComplete\obj\Debug\AutoComplete.exe
+D:\Infragistics\practice\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
+D:\Infragistics\practice\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Form1.resources
